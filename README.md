@@ -1,1 +1,2 @@
-# atom-sample-app
+# My application
+Trainee of P'Moss
